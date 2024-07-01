@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Mini-UMS\Library\Library\Source.cpp(559): warning C4715: 'signin': not all control paths return a value
+  Library.vcxproj -> D:\Mini-UMS\Library\x64\Debug\Library.exe
